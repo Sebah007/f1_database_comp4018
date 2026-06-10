@@ -23,12 +23,12 @@
       padding: 0 2rem; display: flex; align-items: center; gap: 2rem;
       position: sticky; top: 0; z-index: 100; height: 56px;
     }
-    .nav-logo { font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 20px; color: var(--red); text-transform: uppercase; }
+    .nav-logo { font-family: 'Formula1', 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 20px; color: var(--red); text-transform: uppercase; }
     .nav-logo span { color: var(--text); }
     .nav-links { display: flex; gap: 0; }
     .nav-link {
       padding: 0 1rem; height: 56px; display: flex; align-items: center;
-      font-family: 'Barlow Condensed', sans-serif; font-weight: 600; font-size: 13px;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif; font-weight: 600; font-size: 13px;
       letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted);
       cursor: pointer; text-decoration: none;
       border-bottom: 2px solid transparent; margin-bottom: -2px;
@@ -37,12 +37,12 @@
     .nav-link:hover { color: var(--text); }
     .nav-link.active { color: var(--red); border-bottom-color: var(--red); }
     .page { padding: 2rem; max-width: 1400px; margin: 0 auto; }
-    h1 { font-family: 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 42px; text-transform: uppercase; letter-spacing: 0.04em; line-height: 1; margin-bottom: 0.25rem; }
+    h1 { font-family: 'Formula1', 'Barlow Condensed', sans-serif; font-weight: 800; font-size: 42px; text-transform: uppercase; letter-spacing: 0.04em; line-height: 1; margin-bottom: 0.25rem; }
     h1 .accent { color: var(--red); }
     .subtitle { color: var(--muted); font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 2rem; }
     .charts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
     .chart-card { background: var(--card); border: 1px solid var(--border); border-radius: 4px; padding: 1.5rem; }
-    .chart-title { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--red); margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--border); }
+    .chart-title { font-family: 'Formula1', 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 14px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--red); margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--border); }
     .chart-wrap { position: relative; height: 300px; }
     @media (max-width: 900px) { .charts-grid { grid-template-columns: 1fr; } }
   </style>

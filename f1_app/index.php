@@ -43,7 +43,7 @@
     }
 
     .nav-logo {
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 800;
       font-size: 20px;
       letter-spacing: 0.05em;
@@ -61,7 +61,7 @@
       height: 56px;
       display: flex;
       align-items: center;
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 600;
       font-size: 13px;
       letter-spacing: 0.08em;
@@ -82,7 +82,7 @@
     .page.active { display: block; }
 
     h1 {
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 800;
       font-size: 42px;
       text-transform: uppercase;
@@ -111,7 +111,7 @@
     }
 
     .card-title {
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 700;
       font-size: 14px;
       letter-spacing: 0.1em;
@@ -139,7 +139,7 @@
     }
 
     .stat-value {
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 800;
       font-size: 32px;
       color: var(--text);
@@ -167,7 +167,7 @@
       background: #1a1a1a;
       padding: 10px 14px;
       text-align: left;
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 600;
       font-size: 11px;
       letter-spacing: 0.1em;
@@ -240,7 +240,7 @@
       padding: 10px 24px;
       border: none;
       border-radius: 3px;
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 700;
       font-size: 13px;
       letter-spacing: 0.1em;
@@ -284,7 +284,7 @@
       background: #1a1a1a;
       border: 1px solid var(--border);
       border-radius: 3px;
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 600;
       font-size: 12px;
       letter-spacing: 0.06em;
@@ -324,7 +324,7 @@
       text-align: center;
       padding: 3rem;
       color: var(--muted);
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       letter-spacing: 0.1em;
       text-transform: uppercase;
       font-size: 13px;
@@ -341,7 +341,7 @@
     }
 
     .hero-title {
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 800;
       font-size: 56px;
       text-transform: uppercase;
@@ -373,7 +373,7 @@
     .schema-header {
       background: var(--red);
       padding: 8px 14px;
-      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Formula1', 'Barlow Condensed', sans-serif;
       font-weight: 700;
       font-size: 13px;
       letter-spacing: 0.08em;
