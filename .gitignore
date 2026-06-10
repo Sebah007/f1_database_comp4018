@@ -1,0 +1,6 @@
+f1_data/*.csv
+f1_database.sql
+sprint_result_inserts.sql
+__pycache__/
+*.pyc
+.DS_Store
