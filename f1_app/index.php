@@ -410,6 +410,7 @@
     <div class="nav-link" onclick="showPage('modify', this)">Modify</div>
     <div class="nav-link" onclick="showPage('delete', this)">Delete</div>
     <div class="nav-link" onclick="showPage('diagram', this)">E/R Diagram</div>
+    <a class="nav-link" href="charts.php" style="text-decoration:none">Charts</a>
   </div>
 </nav>
 
